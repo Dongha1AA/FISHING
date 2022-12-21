@@ -20,7 +20,7 @@
     font-size: 30px;
     color: white;
     border-bottom: 3px solid white;
-    width: 160px;
+    width: 120px;
 }
 
 #sub{
@@ -52,7 +52,7 @@ button{
     #title{
         font-size: 20px;
         border-bottom: 2px solid;
-        width: 110px;
+        width: 80px;
     }
 
     #sub{
